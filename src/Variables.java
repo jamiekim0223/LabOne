@@ -12,7 +12,7 @@ public class Variables
         byte byteOne = 127;
         int intOne =123;
         float floatOne =6745F;
-        String stringOne="Hello Everyone!";
+        String stringOne="Hello everyone!";
 
         System.out.println(""+intOne+" + "+stringOne+"");
         System.out.println(floatOne);
